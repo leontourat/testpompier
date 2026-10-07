@@ -1,0 +1,11 @@
+{
+  "name": "Ma Tournée",
+  "short_name": "Ma Tournée",
+  "description": "Gestion personnelle des tournées de calendriers",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0d1115",
+  "theme_color": "#101419",
+  "lang": "fr-FR",
+  "icons": []
+}
